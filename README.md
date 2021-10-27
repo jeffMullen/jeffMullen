@@ -24,7 +24,7 @@
 
 ## Where to find me
 - [LinkedIn](https://www.linkedin.com/in/jeff-mullen27/)
-- [Portfolio](https://jeffmullen.github.io/portfolio/)
+- [Portfolio](https://jeffmullen.github.io/portfolio-react/)
 
 
 <!--

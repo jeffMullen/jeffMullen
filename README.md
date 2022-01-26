@@ -2,6 +2,8 @@
 
 ### I'm a Full-Stack Web Developer who specializes in Front-End development
 
+![stats](https://github-readme-stats.vercel.app/api?username=jeffMullen&hide=contribs&theme=bear&count_private=true)
+
 ## Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
